@@ -45,7 +45,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9e3433c691cc04659a6325c7e1ab4906, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pipeRadius: 1
+  LaneHeight: 1
   pipeSegmentCount: 16
   ringDistance: 0.77
   minCurveRadius: 4
